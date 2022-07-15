@@ -1,3 +1,0 @@
-Solve[{\[Lambda] - d*x - \[Beta]*x*y + n*(n - 1)*b*y == 0,
-   -a*y + b*z - (2*n - 1)*b*y == 0,
-   \[Beta]*x*y - a*z - n*(n - 1)*b*y == 0}, {x, y, z}] // FullSimplify
