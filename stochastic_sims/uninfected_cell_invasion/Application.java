@@ -12,7 +12,7 @@ import java.util.concurrent.Executors;
 
 // This code considers invasion of uninfected cells under dynamics of the 
 // nucleated polymerization model (NPM) described by Masel, Jansen, and Nowak, 1999
-// Code used to generate figure 2.3 A, C, E
+
 
 public class Application {
 
