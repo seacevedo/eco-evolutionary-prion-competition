@@ -2,7 +2,7 @@ import java.util.concurrent.*;
 
 // This code considers evolution under dynamics of the 
 // nucleated polymerization model (NPM) described by Masel, Jansen, and Nowak, 1999
-// Code use to generate figure 2.2; can set mu = 0 for vanilla NPM
+// can set mu = 0 for vanilla NPM
 
 public class Application {
 
