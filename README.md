@@ -1,2 +1,2 @@
-# DissertationCode
-This repository holds code for my dissertation, "The Evolution of Prion Virulence".
+# Eco-evolutionary tradeoffs in the dynamics of prion strain competition
+Code for simulations and analysis for the paper "Eco-evolutionary tradeoffs in the dynamics of prion strain competition"
